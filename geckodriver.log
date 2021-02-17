@@ -1,0 +1,233 @@
+1613570790689	geckodriver	INFO	Listening on 127.0.0.1:55938
+1613570794611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofilew3jGM6"
+1613570795930	Marionette	INFO	Listening on port 55946
+1613570796165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613570796177	Marionette	ERROR	[13] No reply from Marionette:Register
+JavaScript error: https://ders.eba.gov.tr/ders/proxy/VCollabPlayer_v0.0.782/liveMiddleware/build/scripts/eba-scripts-01c665117f.js, line 1: TypeError: e.response is undefined
+1613572937269	geckodriver	INFO	Listening on 127.0.0.1:56980
+1613572941278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofile68xOal"
+1613572942942	Marionette	INFO	Listening on port 56989
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 309: TypeError: this._captureQueue is undefined
+1613572943240	Marionette	INFO	Stopped listening on port 56989
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613573069008	geckodriver	INFO	Listening on 127.0.0.1:57044
+1613573072978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofileS0Rxvq"
+1613573074463	Marionette	INFO	Listening on port 57053
+1613573074521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613573074535	Marionette	ERROR	[13] No reply from Marionette:Register
+1613573085666	Marionette	INFO	Stopped listening on port 57053
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613573152395	geckodriver	INFO	Listening on 127.0.0.1:57182
+1613573156358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofileNgJ9R1"
+1613573157925	Marionette	INFO	Listening on port 57191
+1613573158411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613573158422	Marionette	ERROR	[13] No reply from Marionette:Register
+[Parent 4028, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1613573176576	Marionette	INFO	Stopped listening on port 57191
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613573847630	geckodriver	INFO	Listening on 127.0.0.1:49917
+1613573851556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofileZDzCIE"
+1613573853146	Marionette	INFO	Listening on port 49926
+1613573853599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613573853613	Marionette	ERROR	[13] No reply from Marionette:Register
+[GFX1-]: WMF VPX decoder just crashed; hardware video will be disabled.
+[GFX1-]: WMF VPX video decoding is disabled due to a previous crash.
+[Parent 12476, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1613573863450	Marionette	INFO	Stopped listening on port 49926
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613573893688	geckodriver	INFO	Listening on 127.0.0.1:50062
+1613573897624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofilefVEse5"
+1613573898953	Marionette	INFO	Listening on port 50071
+1613573899168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613573899179	Marionette	ERROR	[13] No reply from Marionette:Register
+1613573919520	Marionette	INFO	Stopped listening on port 50071
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613573950169	geckodriver	INFO	Listening on 127.0.0.1:50209
+1613573954120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofileEiXQUW"
+1613573955520	Marionette	INFO	Listening on port 50218
+1613573955656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613573955669	Marionette	ERROR	[13] No reply from Marionette:Register
+1613573971830	Marionette	INFO	Stopped listening on port 50218
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613574225939	geckodriver	INFO	Listening on 127.0.0.1:50415
+1613574229865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofileoQY3pI"
+1613574231378	Marionette	INFO	Listening on port 50428
+1613574231426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613574231440	Marionette	ERROR	[13] No reply from Marionette:Register
+[GFX1-]: WMF VPX decoder just crashed; hardware video will be disabled.
+[GFX1-]: WMF VPX video decoding is disabled due to a previous crash.
+1613574244607	Marionette	INFO	Stopped listening on port 50428
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613582450813	geckodriver	INFO	Listening on 127.0.0.1:53214
+1613582454732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofileg9hmYN"
+1613582456132	Marionette	INFO	Listening on port 53223
+1613582456286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613582456302	Marionette	ERROR	[13] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1613583466806	Marionette	INFO	Stopped listening on port 53223
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofileRyPwi5"
+1613583069409	Marionette	INFO	Listening on port 53642
+1613583069546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613583069556	Marionette	ERROR	[13] No reply from Marionette:Register
+[GFX1-]: WMF VPX decoder just crashed; hardware video will be disabled.
+[GFX1-]: WMF VPX video decoding is disabled due to a previous crash.
+[Parent 7808, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1613583082898	Marionette	INFO	Stopped listening on port 53642
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613584967631	geckodriver	INFO	Listening on 127.0.0.1:54322
+1613584970691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofileku07PQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613584973199	Marionette	INFO	Listening on port 54330
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613584973377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613584973402	Marionette	ERROR	[15] No reply from Marionette:Register
+1613584979616	Marionette	INFO	Stopped listening on port 54330
+1613584992581	geckodriver	INFO	Listening on 127.0.0.1:54375
+1613584995648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofilezul7np"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613584998066	Marionette	INFO	Listening on port 54387
+1613584998324	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613584998349	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1613587505913	Marionette	INFO	Stopped listening on port 54387
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613593437982	geckodriver	INFO	Listening on 127.0.0.1:55116
+1613593442021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofiledALCtl"
+1613593443401	Marionette	INFO	Listening on port 55124
+1613593443559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613593443568	Marionette	ERROR	[13] No reply from Marionette:Register
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1613593456212	Marionette	INFO	Stopped listening on port 55124
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613593668214	geckodriver	INFO	Listening on 127.0.0.1:55323
+1613593672165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofileJ9k3GQ"
+1613593673568	Marionette	INFO	Listening on port 55331
+1613593673707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613593673717	Marionette	ERROR	[13] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 309: TypeError: this._captureQueue is undefined
+1613593673977	Marionette	INFO	Stopped listening on port 55331
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613594273631	geckodriver	INFO	Listening on 127.0.0.1:55491
+1613594277565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofileUJkIQo"
+1613594279085	Marionette	INFO	Listening on port 55500
+1613594279597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613594279610	Marionette	ERROR	[13] No reply from Marionette:Register
+JavaScript error: https://eba.gov.tr/scripts/vendor.3d74be3f25c5d6ab6a7d.js, line 1: Error: In this configuration Angular requires Zone.js
+1613594321962	Marionette	INFO	Stopped listening on port 55500
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613594337709	geckodriver	INFO	Listening on 127.0.0.1:55600
+1613594341657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofileWMBB2Z"
+1613594343031	Marionette	INFO	Listening on port 55609
+1613594343191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613594343201	Marionette	ERROR	[13] No reply from Marionette:Register
+[Parent 13708, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1613594359407	Marionette	INFO	Stopped listening on port 55609
+1613594396667	geckodriver	INFO	Listening on 127.0.0.1:55727
+1613594400588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofilevbXDxd"
+1613594401891	Marionette	INFO	Listening on port 55736
+1613594402131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613594402143	Marionette	ERROR	[13] No reply from Marionette:Register
+1613594407199	Marionette	INFO	Stopped listening on port 55736
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613594414264	geckodriver	INFO	Listening on 127.0.0.1:55815
+1613594418196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofilemP8nzj"
+1613594419614	Marionette	INFO	Listening on port 55824
+1613594419744	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613594419755	Marionette	ERROR	[13] No reply from Marionette:Register
+1613594424795	Marionette	INFO	Stopped listening on port 55824
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+[Parent 10216, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613594434097	geckodriver	INFO	Listening on 127.0.0.1:55905
+1613594438071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofile6kpbSU"
+1613594439873	Marionette	INFO	Listening on port 55914
+1613594440117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613594440129	Marionette	ERROR	[13] No reply from Marionette:Register
+1613594445154	Marionette	INFO	Stopped listening on port 55914
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613594837430	geckodriver	INFO	Listening on 127.0.0.1:56160
+1613594841383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofileidqV9o"
+1613594842739	Marionette	INFO	Listening on port 56169
+1613594842933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613594842943	Marionette	ERROR	[13] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1613594843410	Marionette	INFO	Stopped listening on port 56169
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613594865556	geckodriver	INFO	Listening on 127.0.0.1:56216
+1613594868588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofilev9rZo0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613594870461	Marionette	INFO	Listening on port 56224
+1613594870637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613594870646	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613594885200	Marionette	INFO	Stopped listening on port 56224
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613595125898	geckodriver	INFO	Listening on 127.0.0.1:56377
+1613595141216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofilexJPOqt"
+1613595142601	Marionette	INFO	Listening on port 56388
+1613595142768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613595142780	Marionette	ERROR	[13] No reply from Marionette:Register
+1613595147818	Marionette	INFO	Stopped listening on port 56388
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Emre\AppData\Local\Temp\rust_mozprofilexJPOqt\protections.sqlite
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613595171186	geckodriver	INFO	Listening on 127.0.0.1:56465
+1613595185918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Emre\\AppData\\Local\\Temp\\rust_mozprofilebr7EkV"
+1613595187192	Marionette	INFO	Listening on port 56475
+1613595187474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613595187490	Marionette	ERROR	[13] No reply from Marionette:Register
+1613595192548	Marionette	INFO	Stopped listening on port 56475
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
