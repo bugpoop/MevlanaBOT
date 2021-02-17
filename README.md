@@ -1,7 +1,7 @@
 # ebabot
 EBA derslerine otomatik girecek bir program.
 
-#KULLANIM
+# KULLANIM
 
 EBABOT size programı başlatacak iki seçenek sunar. Eğer dersleriniz henüz başlamadıysa veya yarın uyumak istiyorsanız "yarın" seçeneğine tıklayın ve programı kapatmayın.
 Bu seçenek haftanın hangi günü olduğuna göre derslerin öğlen veya sabah başlayacağını belirler ve vakit geldiğinde otomatik olarak derslere katılır.
