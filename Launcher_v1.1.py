@@ -137,6 +137,56 @@ while True:
             today()
         else:
             tomorrow()
+    if event == 'Geciktim':
+        print("EBABOT 2021")
+        print("Eğer ilerleyen derslerin otomatikleşmiyorsa bir sonraki dersin tam başlangıcında programı açmayı unutma")
+        fp = webdriver.FirefoxProfile(
+            r"C:\Users\Emre\AppData\Roaming\Mozilla\Firefox\Profiles\qgtk6sih.default-release")
+        driver = webdriver.Firefox(firefox_profile=fp)
+
+        # giriş
+        def giris():
+            #   driver = webdriver.Firefox()
+            driver.get("https://eba.gov.tr/#/anasayfa")
+            driver.find_element_by_xpath(
+                "/html/body/app-root/app-anasayfa-page/div[2]/div/div/div[1]/div[2]/div[3]/div[3]/a[2]").click()
+            driver.find_element_by_id("tckn").send_keys("15515365506")
+            driver.find_element_by_id("password").send_keys("4185177em")
+            driver.find_element_by_class_name("nl-form-send-btn").click()
+
+        # derse katılım
+        def katil():
+            #  driver = webdriver.Firefox()
+            driver.get("https://eba.gov.tr/#/anasayfa")
+            driver.find_element_by_xpath(
+                "/html/body/app-root/app-anasayfa-page/div[2]/div/div/div[1]/div[2]/div[3]/div[3]/a[2]").click()
+            time.sleep(2)
+            driver.find_element_by_id("joinMeeting").click()  # TODO: CANLI DERSE KATILIM EKLE
+            time.sleep(2)
+            driver.find_element_by_id("join").click()
+
+
+        def ders():
+            print("Derse giriş yapılıyor!")
+            katil()
+            time.sleep(1800)  # DERS UZUNLUĞU
+            print("Ders Bitti! Beklemeye geçiliyor.")
+            time.sleep(600)  # TENEFÜS UZUNLUĞUg
+
+
+        def okul():
+            print("Giriş yapılıyor..")
+            giris()
+            print("Başarıyla Giriş Yapıldı!")
+            ders_sayisi = 0
+            while ders_sayisi < 9:
+                ders()
+                ders_sayisi += 1
+
+            print("Daha fazla dersin yok")
+
+
+        okul()
     if event == sg.WIN_CLOSED or event == 'İptal':  # if user closes window or clicks cancel
         window.close()
         break
