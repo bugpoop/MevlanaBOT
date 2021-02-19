@@ -1,5 +1,5 @@
-# ebabot
-EBA derslerine otomatik girecek bir program.
+# MEVLANABOT
+Mevlana Anadolu Lisesi için EBA derslerine otomatik girecek bir program.
 
 # KURULUM
 
